@@ -1,0 +1,41 @@
+
+<div class="row">
+    <div class="col-sm-12">
+		<div class="card-box table-responsive" style="padding: 0 auto">
+			<table id="mydatas" style="width:100% !important;padding: 0;margin: 0; display:block;" class="table table-bordered table-hover table-responsive">
+				<div style="margin:0;">
+					<thead style="background-color:#e74c3c;white-space: nowrap">
+	                    <th class="text-center" style="font-size: 14px;color:white;font-family:"Times New Rowman,Times";">NO</th>
+	                    <th class="text-center" style="font-size: 14px;color:white;font-family:"Times New Rowman,Times";">DEPT</th>
+	                    <th class="text-center" style="font-size: 14px;color:white;font-family:"Times New Rowman,Times";">SOAL</th>
+	                    <th class="text-center" style="font-size: 14px;color:white;font-family:"Times New Rowman,Times";">SANGAT KURANG PUAS</th>
+	                    <th class="text-center" style="font-size: 14px;color:white;font-family:"Times New Rowman,Times";">KURANG PUAS</th>
+	                    <th class="text-center" style="font-size: 14px;color:white;font-family:"Times New Rowman,Times";">CUKUP PUAS</th>
+	                    <th class="text-center" style="font-size: 14px;color:white;font-family:"Times New Rowman,Times";">PUAS</th>
+	                    <th class="text-center" style="font-size: 14px;color:white;font-family:"Times New Rowman,Times";">SANGAT PUAS</th>
+	                <tbody>
+	                <div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: report</p>
+<p>Filename: views/v_export_report.php</p>
+<p>Line Number: 26</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: views/v_export_report.php</p>
+<p>Line Number: 26</p>
+
+</div>			        </tbody>
+	                </thead>
+	            </div>
+			</table>
+		</div>
+    </div>
+</div>
